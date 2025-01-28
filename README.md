@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 - 🎓 *Pursuing B.Tech* in *Information Technology* at *IIIT Vadodara*.  
 - 🚀 *Working on Projects* like *Rental Bike and Car Platforms*.  
 - 💬 *Ask me anything* about *Programming, Web Development, or MERN stack* at [erandesamadhan2003@gmail.com](mailto:erandesamadhan2003@gmail.com).  
