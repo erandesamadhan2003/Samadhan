@@ -71,10 +71,10 @@
 ### 📫 Connect With Me
 <p align="left">
   <!-- Connect with me -->
-  <a href="https://twitter.com/SamadhanErande" target="_blank">
+  <a href="https://x.com/ErandeSamadhan" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/samadhan-erande-iiit/" target="_blank">
+  <a href="https://www.linkedin.com/in/samadhan-erande-103712326/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
